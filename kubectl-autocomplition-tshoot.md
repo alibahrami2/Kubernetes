@@ -138,7 +138,7 @@ If you want to automate this across multiple nodes, consider writing a shell scr
 
 
 > ## 📝 About the Author
-> #### Crafted with care and ❤️ by [Ali Rahmati](https://github.com/alirahmti). 👨‍💻
+> #### Crafted with care and ❤️ by [Ali bahrami](https://github.com/alibahrami2). 👨‍💻
 > If this repo saved you time or solved a problem, a ⭐ means everything in the DevOps world. 🧠💾
 > Your star ⭐ is like a high five from the terminal — thanks for the support! 🙌🐧
 
