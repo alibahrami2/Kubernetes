@@ -1,0 +1,2 @@
+sudo kubeadm config images pull   --image-repository=registry.aliyuncs.com/google_containers   --kubernetes-version=v1.32.7
+
