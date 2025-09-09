@@ -1,3 +1,3 @@
-this is busybox yaml file.
+This is busybox yaml file.
 
-busybox is a minimal linux we can use.
+Busybox is a minimal linux we can use.
